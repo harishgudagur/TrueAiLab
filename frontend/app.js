@@ -35,7 +35,7 @@ async function sendMessage() {
 
         const response =
             await fetch(
-                "http://127.0.0.1:8000/api/chat",
+                "https://trueailab-rag-backend-siy8.onrender.com/api/chat",
                 {
                     method: "POST",
 
