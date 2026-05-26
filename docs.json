@@ -1,0 +1,26 @@
+[
+  {
+    "title": "Reset Password",
+    "content": "Users can reset their password from Settings > Security. Click reset password and follow verification steps sent to their email."
+  },
+  {
+    "title": "Refund Policy",
+    "content": "Refunds are processed within five business days after approval. Users must submit refund requests through support."
+  },
+  {
+    "title": "Account Deletion",
+    "content": "Users can permanently delete their account from profile settings. Deleted accounts cannot be recovered."
+  },
+  {
+    "title": "Subscription Plans",
+    "content": "Premium subscription includes unlimited storage, priority customer support, and advanced analytics."
+  },
+  {
+    "title": "Support Contact",
+    "content": "Users can contact customer support using email, phone support, or live chat available 24 hours."
+  },
+  {
+    "title": "Profile Update",
+    "content": "Users can update profile details including name, email, and profile picture from account settings."
+  }
+]
